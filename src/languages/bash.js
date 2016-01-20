@@ -36,7 +36,7 @@ function(hljs) {
     lexemes: /-?[a-z\.]+/,
     keywords: {
       keyword:
-        'if then else elif fi for while in do done case esac function',
+        'curl if then else elif fi for while in do done case esac function',
       literal:
         'true false',
       built_in:
